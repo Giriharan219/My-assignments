@@ -1,5 +1,5 @@
 [alias]
-co = checkout
-ci = commit
-st = status
-br = branch
+    co = checkout
+    ci = commit
+    st = status
+    br = branch
